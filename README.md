@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GusUnicus
+- 👋 Hi, I’m @Guswind
 - 👀 I’m interested in watching anime, playing JRPG, programming, and studying foreign languages
 - 🌱 I’m currently learning python and unity
 - 💞️ I’m looking to collaborate on how to develop an app game with in app purchases.
