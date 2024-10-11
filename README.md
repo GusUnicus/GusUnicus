@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- [Ecommerce Platform that can prevent againt command injections attacks](https://github.com/GusUnicus/Ecom_Project.git)
+- [Ecommerce Platform that can prevent against command injections attacks](https://github.com/GusUnicus/Ecom_Project.git)
 
 <h2>📄 Machine Learning and Artificial Intelligence Essays: </h2>
 
