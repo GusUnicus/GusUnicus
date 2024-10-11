@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- [eCommerce Platform that can prevent againt command injections attacks](https://github.com/GusUnicus/Ecom_Project.git)
+- [Ecommerce Platform that can prevent againt command injections attacks](https://github.com/GusUnicus/Ecom_Project.git)
 
 <h2> Machine Learning and Artificial Intelligence Essays </h2>
 
@@ -18,7 +18,7 @@
 <h2>📺 YouTube Videos:</h2>
 
 - [Statement of Work Development Presentation](https://youtu.be/x3pwrPpiLKI)
-- [Secure Programming](https://youtu.be/NTlesmY2Lnw)
+- [Ecommerce Group Presentation Secure Programming](https://youtu.be/NTlesmY2Lnw)
 
 <h2> 🤳 Connect with me:</h2>
 
