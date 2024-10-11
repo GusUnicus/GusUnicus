@@ -4,7 +4,7 @@
 
 - [Ecommerce Platform that can prevent againt command injections attacks](https://github.com/GusUnicus/Ecom_Project.git)
 
-<h2> Machine Learning and Artificial Intelligence Essays </h2>
+<h2> Machine Learning and Artificial Intelligence Essays: </h2>
 
 - [The success of LLMs on Theory of Mind (Grade: High Distinction)](https://drive.google.com/file/d/1envt-soRK-CmDovxkBRXbCa7QlvJvmFV/view?usp=sharing)
   
