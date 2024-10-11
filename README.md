@@ -19,6 +19,10 @@
 
 - [Ecommerce Group Presentation Secure Programming](https://youtu.be/NTlesmY2Lnw)
 
+<h2>🏆 Company Award:</h2>
+
+- [Productivity Champion in Cognizant](https://drive.google.com/file/d/1IpvEIWN1XZIGtWLOnzbaaVs5RK4aQ5gR/view?usp=sharing)
+
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
