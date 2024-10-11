@@ -8,7 +8,7 @@
 
 - [The success of LLMs on Theory of Mind (Grade: High Distinction)](https://drive.google.com/file/d/1envt-soRK-CmDovxkBRXbCa7QlvJvmFV/view?usp=sharing)
   
-<h2> Certifications </h2>
+<h2>📄 Certifications </h2>
 
 - [GRC Mastery]()
 - [Google IT Support](https://drive.google.com/file/d/1CuFdmd6GCRHvhhEIToiPri_e3aDULvmK/view?usp=sharing)
