@@ -17,7 +17,6 @@
 
 <h2>📺 YouTube Videos:</h2>
 
-- [Statement of Work Development Presentation](https://youtu.be/x3pwrPpiLKI)
 - [Ecommerce Group Presentation Secure Programming](https://youtu.be/NTlesmY2Lnw)
 
 <h2> 🤳 Connect with me:</h2>
