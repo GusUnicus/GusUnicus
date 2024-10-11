@@ -1,4 +1,4 @@
-<h1>Hi, I'm Agustin Balce! Welcome to my portfolio </h1>
+<h1>Hi, I'm Agustin Balce! Welcome to my portfolio. </h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
