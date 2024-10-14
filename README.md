@@ -11,7 +11,7 @@
   
 <h2>📄 Certifications: </h2>
 
-- [GRC Mastery]()
+- [GRC Mastery](https://drive.google.com/file/d/1JCVecPlTG7U6BIcsFu1R_EsDgSE9hLjL/view?usp=sharing)
 - [Google IT Support](https://drive.google.com/file/d/1CuFdmd6GCRHvhhEIToiPri_e3aDULvmK/view?usp=sharing)
 - [Google Cybersecurity](https://www.coursera.org/account/accomplishments/specialization/KDQ6N3JAHYL9)
 - [CISCO Introduction to Cybersecurity](https://www.credly.com/badges/d3da5b9e-9da7-4c0d-94ed-b473368fe0cd/linked_in_profile)
